@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_node = task2_node.publisher_node:main
+subscriber_node = task2_node.subscriber_node:main
+
