@@ -1,0 +1,24 @@
+[0.843s] Invoking command in '/home/hp/ros2_ws_horizon_/src/task2_node': PYTHONPATH=/home/hp/ros2_ws_horizon_/src/build/task2_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task2_node build --build-base /home/hp/ros2_ws_horizon_/src/build/task2_node/build install --record /home/hp/ros2_ws_horizon_/src/build/task2_node/install.log --single-version-externally-managed install_data
+[1.143s] running egg_info
+[1.144s] writing ../build/task2_node/task2_node.egg-info/PKG-INFO
+[1.144s] writing dependency_links to ../build/task2_node/task2_node.egg-info/dependency_links.txt
+[1.144s] writing entry points to ../build/task2_node/task2_node.egg-info/entry_points.txt
+[1.144s] writing requirements to ../build/task2_node/task2_node.egg-info/requires.txt
+[1.144s] writing top-level names to ../build/task2_node/task2_node.egg-info/top_level.txt
+[1.147s] reading manifest file '../build/task2_node/task2_node.egg-info/SOURCES.txt'
+[1.193s] writing manifest file '../build/task2_node/task2_node.egg-info/SOURCES.txt'
+[1.193s] running build
+[1.193s] running build_py
+[1.193s] copying task2_node/subscriber_node.py -> /home/hp/ros2_ws_horizon_/src/build/task2_node/build/lib/task2_node
+[1.194s] running install
+[1.195s] running install_lib
+[1.196s] copying /home/hp/ros2_ws_horizon_/src/build/task2_node/build/lib/task2_node/subscriber_node.py -> /home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages/task2_node
+[1.197s] byte-compiling /home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages/task2_node/subscriber_node.py to subscriber_node.cpython-310.pyc
+[1.198s] running install_data
+[1.198s] running install_egg_info
+[1.201s] removing '/home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages/task2_node-0.0.0-py3.10.egg-info' (and everything under it)
+[1.201s] Copying ../build/task2_node/task2_node.egg-info to /home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages/task2_node-0.0.0-py3.10.egg-info
+[1.203s] running install_scripts
+[1.228s] Installing publisher_node = task2_node.publisher_node:mainsubscriber_node script to /home/hp/ros2_ws_horizon_/src/install/task2_node/lib/task2_node
+[1.229s] writing list of installed files to '/home/hp/ros2_ws_horizon_/src/build/task2_node/install.log'
+[1.259s] Invoked command in '/home/hp/ros2_ws_horizon_/src/task2_node' returned '0': PYTHONPATH=/home/hp/ros2_ws_horizon_/src/build/task2_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hp/ros2_ws_horizon_/src/install/task2_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task2_node build --build-base /home/hp/ros2_ws_horizon_/src/build/task2_node/build install --record /home/hp/ros2_ws_horizon_/src/build/task2_node/install.log --single-version-externally-managed install_data
